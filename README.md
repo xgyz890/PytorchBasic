@@ -5,4 +5,4 @@
 2. [pytorch_chapter03_tensor.ipynb]() 详细介绍 tensor 的操作，提供线性回归的经典例子。
 
 ## _References_
-1. [Chenyuntc's pytorch examples](https://github.com/chenyuntc/pytorch-book)
+1. [Chenyuntc's Pytorch Tutorial Book](https://github.com/chenyuntc/pytorch-book)
