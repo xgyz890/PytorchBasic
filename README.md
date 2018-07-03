@@ -5,5 +5,10 @@
 2. [pytorch_chapter03_tensor.ipynb](https://github.com/GaoYang-Thu/learn-pytorch/blob/master/pytorch_chapter03_tensor.ipynb) 详细介绍 tensor 的操作，并且提供一个线性回归的经典例子。掌握这个例子，就基本足够了。
 3. [pytorch_chapter03_autograd.ipynb](https://github.com/GaoYang-Thu/learn-pytorch/blob/master/pytorch_chapter03_autograd.ipynb) 详细介绍了 autograd 的细节，再次实现了经典线性回归的例子。
 
+## Comments
+* 查阅官方文档后，我发现 `Variable(tensor)` 这种方法已经被官方弃用。想要得到一个能求导的 tensor，只需在新建 tensor 的时候声明要求导 `x = torch.ones((1,1),requires_grad = True` 就可以得到能求导的 tensor。关于这一点，我已经在教程页面提交了 [issue](https://github.com/chenyuntc/pytorch-book/issues/70)。
+
+
+
 ## _References_
 1. [Chenyuntc's Pytorch Tutorial Book](https://github.com/chenyuntc/pytorch-book)
