@@ -17,5 +17,5 @@ My examples for learning PyTorch written in Jupyter notebooks, adapted from [Che
 2. [PyTorch Official Docs](https://pytorch.org/docs)
 
 
-## ::sunglasses::
+## :sunglasses:
 Happy coding!
