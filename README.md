@@ -14,3 +14,4 @@ My examples for learning PyTorch written in Jupyter notebooks, adapted from [Che
 
 ## _References_
 1. [Chenyuntc's Pytorch Tutorial Book](https://github.com/chenyuntc/pytorch-book)
+2. [PyTorch Official Docs](https://pytorch.org/docs)
