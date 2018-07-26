@@ -1,3 +1,5 @@
+以下说明来自 chenyuntc‘s book  
+
 这是电子工业出版社的《深度学习框架PyTorch：入门与实践》第七章的配套代码
 
 ## 环境准备
@@ -87,20 +89,5 @@ python main.py generate --nogpu --vis=False \
     gen_std = 1 #噪声的方差
    
 ```
-生成的部分图片：
-![imgs](https://dn-cyfall.qbox.me/del/gan-results2.png)
 
 
-### 兼容性测试
-train 
-- [x] GPU  
-- [x] CPU  
-- [x] Python2
-- [x] Python3
-
-test: 
-
-- [x] GPU
-- [x] CPU
-- [x] Python2
-- [x] Python3
